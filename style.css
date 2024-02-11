@@ -1,0 +1,26 @@
+/* Homepage style */
+
+#home-title{
+    text-align: flex;
+}
+
+.home-image{
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: auto;
+    background-color: #252525 ; 
+    border:#252525 ; 
+    border-radius: 50px;
+    border-style: solid; 
+    border-width: 7px;
+    padding: auto;
+}
+/* Lasagne page style */
+
+.lasagne-image{
+    height: 500px;
+    width: 680px;
+    background-color: #252525;
+    border: #252525;
+}
